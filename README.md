@@ -1,5 +1,4 @@
-# ReflectionUtil
-## 파라미터의 getter기준으로, 기존 객체의 settet를 호출하여 
+# 파라미터의 getter기준으로, 기존 객체의 settet를 호출하여 
 
 	ReflectionUtil reflectionUtil = new ReflectionUtil();
 		
