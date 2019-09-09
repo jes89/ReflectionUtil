@@ -12,4 +12,4 @@ System.out.println(result.getName());
 System.out.println(result.getGender());
 System.out.println(result.getAgreeYn());
 
-파라미터에서 기존 객체에서 변경된 프로퍼티만 변경
+파라미터의 getter기준으로, 기존 객체의 settet를 호출하여 
